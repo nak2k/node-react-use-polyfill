@@ -32,6 +32,10 @@ function App() {
 }
 ```
 
+## Demo
+
+[react-use-polyfill-example - CodeSandbox](https://codesandbox.io/s/react-use-polyfill-example-ib7x74)
+
 ## License
 
 MIT
